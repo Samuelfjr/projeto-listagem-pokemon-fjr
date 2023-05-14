@@ -1,13 +1,19 @@
 # Listagem Pokémon FJR
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Samuelfjr/projeto-listagem-pokemon-fjr/blob/main/LICENSE) 
 
+## :tv: Tela Sem Modo Escuro
+![tela01ProjetoListagemPokemon](https://github.com/Samuelfjr/projeto-listagem-pokemon-fjr/assets/79173261/a6b19366-6b87-4d8e-9598-d91ac1172725)
+
+## :tv: Tela Com Modo Escuro
+![tela02ProjetoListagemPokemon](https://github.com/Samuelfjr/projeto-listagem-pokemon-fjr/assets/79173261/db05f9fa-0cb0-4fe4-a1c0-51df5f579b40)
+
 # :rocket: Sobre o Projeto
 
 https://samuelfjr.github.io/projeto-listagem-pokemon-fjr/
 
 Listagem Pokémon FJR é uma aplicação front end construída na *Semana do Zero ao Programador Contratado*, evento organizado pela DevEmDobro.
 
-A aplicação consiste em uma pokédex com apenas uma tela, contendo: 
+A aplicação consiste em uma pokédex responsiva com apenas uma tela, contendo: 
 - Nome 
 - Número
 - Imagem 
