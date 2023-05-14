@@ -33,10 +33,10 @@ código, estrutura ou qualquer coisa que puderem relatar, isso me transformará 
 - `HTML`
 - `CSS`
 
-
-
 # Autor
 
 Samuel Fernandes Junior
 
-https://www.linkedin.com/in/samuelfjr/
+https://www.linkedin.com/in/samuelfjr/ 
+
+samuelfjr04@gmail.com
